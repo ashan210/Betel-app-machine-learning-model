@@ -1,1 +1,0 @@
-# Betel-app-machine-learning-model
